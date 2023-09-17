@@ -8,7 +8,7 @@ const Hero = () => {
         <article>
           <h1 className='text-7xl font-bold tracking-wider'>Hi, I'm Dachi</h1>
           <p className='mt-4 text-3xl text-slate-700 capitalize tracking-wide'>
-            React Front-End Developer
+            Frontend React Developer
           </p>
           <p className='mt-2 text-lg text-slate-700 capitalize tracking-wide'>
             turning ideas into interactive reality

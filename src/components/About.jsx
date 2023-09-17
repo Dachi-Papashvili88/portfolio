@@ -11,7 +11,7 @@ const About = () => {
             I'm React Frontend Developer, based in Georgia, Rustavi. I love building apps that
             solve real-world problems, and that are delightful to use. 
           </p>
-          <p>
+          <p className="text-slate-600 mt-8 leading-loose">
             Recently, I completed the Frontend Developer Career Path at Scrimba.
             I build responsive websites using HTML, CSS, JavaScript and React
           </p>
